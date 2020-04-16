@@ -1,0 +1,13 @@
+/home/red/Documents/Java/12.04 Codes/CS - ThreadExample/bin/Debug/netcoreapp3.1/CS - ThreadExample
+/home/red/Documents/Java/12.04 Codes/CS - ThreadExample/bin/Debug/netcoreapp3.1/CS - ThreadExample.deps.json
+/home/red/Documents/Java/12.04 Codes/CS - ThreadExample/bin/Debug/netcoreapp3.1/CS - ThreadExample.runtimeconfig.json
+/home/red/Documents/Java/12.04 Codes/CS - ThreadExample/bin/Debug/netcoreapp3.1/CS - ThreadExample.runtimeconfig.dev.json
+/home/red/Documents/Java/12.04 Codes/CS - ThreadExample/bin/Debug/netcoreapp3.1/CS - ThreadExample.dll
+/home/red/Documents/Java/12.04 Codes/CS - ThreadExample/bin/Debug/netcoreapp3.1/CS - ThreadExample.pdb
+/home/red/Documents/Java/12.04 Codes/CS - ThreadExample/obj/Debug/netcoreapp3.1/CS - ThreadExample.csprojAssemblyReference.cache
+/home/red/Documents/Java/12.04 Codes/CS - ThreadExample/obj/Debug/netcoreapp3.1/CS - ThreadExample.csproj.CoreCompileInputs.cache
+/home/red/Documents/Java/12.04 Codes/CS - ThreadExample/obj/Debug/netcoreapp3.1/CS - ThreadExample.AssemblyInfoInputs.cache
+/home/red/Documents/Java/12.04 Codes/CS - ThreadExample/obj/Debug/netcoreapp3.1/CS - ThreadExample.AssemblyInfo.cs
+/home/red/Documents/Java/12.04 Codes/CS - ThreadExample/obj/Debug/netcoreapp3.1/CS - ThreadExample.dll
+/home/red/Documents/Java/12.04 Codes/CS - ThreadExample/obj/Debug/netcoreapp3.1/CS - ThreadExample.pdb
+/home/red/Documents/Java/12.04 Codes/CS - ThreadExample/obj/Debug/netcoreapp3.1/CS - ThreadExample.genruntimeconfig.cache
