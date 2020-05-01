@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/red/Documents/Java/12.04 Codes/CS - ThreadExample/CS - ThreadExample.csproj",
+      "projectUniqueName": "/home/red/Documents/GitHub/AnkaComp-Season-IV/OOP/12.04 Codes/CS - ThreadExample/CS - ThreadExample.csproj",
       "projectName": "CS - ThreadExample",
-      "projectPath": "/home/red/Documents/Java/12.04 Codes/CS - ThreadExample/CS - ThreadExample.csproj",
+      "projectPath": "/home/red/Documents/GitHub/AnkaComp-Season-IV/OOP/12.04 Codes/CS - ThreadExample/CS - ThreadExample.csproj",
       "packagesPath": "/home/red/.nuget/packages/",
-      "outputPath": "/home/red/Documents/Java/12.04 Codes/CS - ThreadExample/obj/",
+      "outputPath": "/home/red/Documents/GitHub/AnkaComp-Season-IV/OOP/12.04 Codes/CS - ThreadExample/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/red/.nuget/NuGet/NuGet.Config"
