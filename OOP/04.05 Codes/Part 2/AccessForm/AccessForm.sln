@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessForm", "AccessForm.csproj", "{04AB0A59-EF4B-47B9-AA76-F212BE8F329E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "..\Operations\Operations.csproj", "{DA8FE5FC-18F3-4651-A0F0-8D264368D4C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "..\Data\Data.csproj", "{D541A807-64B9-4ACA-B89A-804BAEB64FF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04AB0A59-EF4B-47B9-AA76-F212BE8F329E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04AB0A59-EF4B-47B9-AA76-F212BE8F329E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04AB0A59-EF4B-47B9-AA76-F212BE8F329E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04AB0A59-EF4B-47B9-AA76-F212BE8F329E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA8FE5FC-18F3-4651-A0F0-8D264368D4C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8FE5FC-18F3-4651-A0F0-8D264368D4C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8FE5FC-18F3-4651-A0F0-8D264368D4C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8FE5FC-18F3-4651-A0F0-8D264368D4C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D541A807-64B9-4ACA-B89A-804BAEB64FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D541A807-64B9-4ACA-B89A-804BAEB64FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D541A807-64B9-4ACA-B89A-804BAEB64FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D541A807-64B9-4ACA-B89A-804BAEB64FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6003442-FF8A-4250-9EB1-AAFB315C1B77}
+	EndGlobalSection
+EndGlobal
